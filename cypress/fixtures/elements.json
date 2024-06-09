@@ -1,0 +1,25 @@
+{
+  "signUpButton": ".Header2_header__nav__btn__wRKfY div:nth-child(2)",
+   "fullNameField": "#fullname",
+   "businessNameField": "#businessname",
+   "businessEmailNameField": "#businessemail",
+   "businessPhoneNo":"#businessphonenumber",
+   "businessRegNumberField": "#businessRegNum",
+   "websiteField": "#website",
+   "igHandleField": "#instagramHandle",
+   "twitterNameField": "#twitterHandle",
+   "dropdown": "div[placeholder]",
+   "infoSourceField": "input#fullname",
+   "nextButton":"",
+   "passwordField": "#password",
+   "signupButton": ""
+}
+
+
+
+
+
+
+
+
+
